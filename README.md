@@ -117,3 +117,10 @@ Both models:
 ├── low_importance_words.csv
 ├── AssignmentWeek_5_code.py
 └── README.md
+
+**Models will output predictions in:**
+test_cleaned_refined.csv
+
+**with:**
+out_label_model_Gen → Naive Bayes predictions
+out_label_model_Dis → Logistic Regression predictions
